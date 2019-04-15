@@ -1,0 +1,1 @@
+Two-way data binding between the data model and the view using Angular framework of Javascript. When data in the model changes, the view reflects the change, and when data in the view changes, the model is updated as well.
